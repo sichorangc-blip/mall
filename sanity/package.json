@@ -1,0 +1,8 @@
+{
+  "name": "iset-sanity-studio",
+  "private": true,
+  "scripts": {
+    "dev": "sanity dev",
+    "deploy": "sanity deploy"
+  }
+}
